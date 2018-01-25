@@ -1,8 +1,8 @@
 language.code=pt-BR
 language=Português do Brasil
 //TODO Translate [Reference] '?'
-staxel.village.dialogue.GenericResponses.line:10000100=
+staxel.village.dialogue.GenericResponses.line:10000100=?
 //TODO Translate [Reference] 'Hm?'
-staxel.village.dialogue.GenericResponses.line:10000200=
+staxel.village.dialogue.GenericResponses.line:10000200=Hm?
 //TODO Translate [Reference] 'Yes?'
-staxel.village.dialogue.GenericResponses.line:10000300=
+staxel.village.dialogue.GenericResponses.line:10000300=Sim?
