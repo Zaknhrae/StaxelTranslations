@@ -5,31 +5,31 @@ staxel.item.crafting.BakingPowder.description=Pó branco para cozinhar
 
 //[Reference] 'Baking Powder'
 staxel.item.crafting.BakingPowder.name=Pó para cozimento
-//TODO Translate [Reference] 'Used to bake food in an oven.'
+//[Reference] 'Used to bake food in an oven.'
 staxel.item.crafting.BakingTray.description=Usado para assar comida em um forno
-//TODO Translate [Reference] 'Baking Tray'
+//[Reference] 'Baking Tray'
 staxel.item.crafting.BakingTray.name=Assadeira
-//TODO Translate [Reference] 'They're fresh and plentiful.'
+//[Reference] 'They're fresh and plentiful.'
 staxel.item.crafting.Blueberries.description=Elas estão frescas e abundantes
-//TODO Translate [Reference] 'Blueberries'
+//[Reference] 'Blueberries'
 staxel.item.crafting.Blueberries.name=Mirtilos
-//TODO Translate [Reference] 'A white bowl.'
+//[Reference] 'A white bowl.'
 staxel.item.crafting.Bowl.description=Uma tigela branca
-//TODO Translate [Reference] 'Bowl'
+//[Reference] 'Bowl'
 staxel.item.crafting.Bowl.name=Tigela
-//TODO Translate [Reference] 'A loaf of bread.'
+[Reference] 'A loaf of bread.'
 staxel.item.crafting.Bread.description=Uma unidade de pão
-//TODO Translate [Reference] 'Bread'
+//[Reference] 'Bread'
 staxel.item.crafting.Bread.name=Pão
-//TODO Translate [Reference] 'A freshly cut slice of bread.'
+//[Reference] 'A freshly cut slice of bread.'
 staxel.item.crafting.BreadSlice.description=Uma fatia de pão recém cortada
-//TODO Translate [Reference] 'Bread slice'
+//[Reference] 'Bread slice'
 staxel.item.crafting.BreadSlice.name=Fatia de pão
-//TODO Translate [Reference] 'It's like sugar, but brown!'
+//[Reference] 'It's like sugar, but brown!'
 staxel.item.crafting.BrownSugar.description=É tipo açúcar, só que marrom!
-//TODO Translate [Reference] 'Brown sugar'
+//[Reference] 'Brown sugar'
 staxel.item.crafting.BrownSugar.name=Açúcar marrom
-//TODO Translate [Reference] 'A multipurpose miracle product. Useful for many recipes!'
+//[Reference] 'A multipurpose miracle product. Useful for many recipes!'
 staxel.item.crafting.Butter.description=Um produto milagroso de múltiplos usos. Útil para muitas receitas!
 //TODO Translate [Reference] 'Butter'
 staxel.item.crafting.Butter.name=Manteiga
