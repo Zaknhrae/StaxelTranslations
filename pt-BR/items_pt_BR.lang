@@ -6,68 +6,68 @@ staxel.item.crafting.BakingPowder.description=Pó branco para cozinhar
 //[Reference] 'Baking Powder'
 staxel.item.crafting.BakingPowder.name=Pó para cozimento
 //TODO Translate [Reference] 'Used to bake food in an oven.'
-staxel.item.crafting.BakingTray.description=
+staxel.item.crafting.BakingTray.description=Usado para assar comida em um forno
 //TODO Translate [Reference] 'Baking Tray'
-staxel.item.crafting.BakingTray.name=
+staxel.item.crafting.BakingTray.name=Assadeira
 //TODO Translate [Reference] 'They're fresh and plentiful.'
-staxel.item.crafting.Blueberries.description=
+staxel.item.crafting.Blueberries.description=Elas estão frescas e abundantes
 //TODO Translate [Reference] 'Blueberries'
-staxel.item.crafting.Blueberries.name=
+staxel.item.crafting.Blueberries.name=Mirtilos
 //TODO Translate [Reference] 'A white bowl.'
-staxel.item.crafting.Bowl.description=
+staxel.item.crafting.Bowl.description=Uma tigela branca
 //TODO Translate [Reference] 'Bowl'
-staxel.item.crafting.Bowl.name=
+staxel.item.crafting.Bowl.name=Tigela
 //TODO Translate [Reference] 'A loaf of bread.'
-staxel.item.crafting.Bread.description=
+staxel.item.crafting.Bread.description=Uma unidade de pão
 //TODO Translate [Reference] 'Bread'
-staxel.item.crafting.Bread.name=
+staxel.item.crafting.Bread.name=Pão
 //TODO Translate [Reference] 'A freshly cut slice of bread.'
-staxel.item.crafting.BreadSlice.description=
+staxel.item.crafting.BreadSlice.description=Uma fatia de pão recém cortada
 //TODO Translate [Reference] 'Bread slice'
-staxel.item.crafting.BreadSlice.name=
+staxel.item.crafting.BreadSlice.name=Fatia de pão
 //TODO Translate [Reference] 'It's like sugar, but brown!'
-staxel.item.crafting.BrownSugar.description=
+staxel.item.crafting.BrownSugar.description=É tipo açúcar, só que marrom!
 //TODO Translate [Reference] 'Brown sugar'
-staxel.item.crafting.BrownSugar.name=
+staxel.item.crafting.BrownSugar.name=Açúcar marrom
 //TODO Translate [Reference] 'A multipurpose miracle product. Useful for many recipes!'
-staxel.item.crafting.Butter.description=
+staxel.item.crafting.Butter.description=Um produto milagroso de múltiplos usos. Útil para muitas receitas!
 //TODO Translate [Reference] 'Butter'
-staxel.item.crafting.Butter.name=
+staxel.item.crafting.Butter.name=Manteiga
 staxel.item.crafting.Buttermilk.description=
 //TODO Translate [Reference] 'Buttermilk'
-staxel.item.crafting.Buttermilk.name=
+staxel.item.crafting.Buttermilk.name=Soro de leite coalhado
 staxel.item.crafting.CakeCarrot.description=
 //TODO Translate [Reference] 'Carrot Cake'
-staxel.item.crafting.CakeCarrot.name=
+staxel.item.crafting.CakeCarrot.name=Bolo de Cenoura
 staxel.item.crafting.CakeCarrotBatter.description=
 //TODO Translate [Reference] 'Carrot Cake Batter'
-staxel.item.crafting.CakeCarrotBatter.name=
+staxel.item.crafting.CakeCarrotBatter.name=Massa de Bolo de Cenoura
 //TODO Translate [Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
-staxel.item.crafting.CakeChocolate.description=
+staxel.item.crafting.CakeChocolate.description=Um dos clássicos, não tem como errar com um bolo de chocolate.
 //TODO Translate [Reference] 'Chocolate Cake'
-staxel.item.crafting.CakeChocolate.name=
+staxel.item.crafting.CakeChocolate.name=Bolo de Chocolate
 staxel.item.crafting.CakeChocolateBatter.description=
 //TODO Translate [Reference] 'Chocolate Cake Batter'
-staxel.item.crafting.CakeChocolateBatter.name=
+staxel.item.crafting.CakeChocolateBatter.name=Massa de Bolo de Chocolate
 staxel.item.crafting.CakeJam.description=
 //TODO Translate [Reference] 'Jam Cake'
-staxel.item.crafting.CakeJam.name=
+staxel.item.crafting.CakeJam.name=Bolo de Geléia
 staxel.item.crafting.CakePlain.description=
 //TODO Translate [Reference] 'Cake'
-staxel.item.crafting.CakePlain.name=
+staxel.item.crafting.CakePlain.name=Bolo
 staxel.item.crafting.CakePlainBatter.description=
 //TODO Translate [Reference] 'Cake Batter'
-staxel.item.crafting.CakePlainBatter.name=
+staxel.item.crafting.CakePlainBatter.name=Massa de Bolo
 //TODO Translate [Reference] 'A circular cake tin, for round cakes!'
-staxel.item.crafting.CakeTin_Circle.description=
+staxel.item.crafting.CakeTin_Circle.description=Uma forma circular de bolo para bolos redondos!
 //TODO Translate [Reference] 'Circle Cake Tin'
-staxel.item.crafting.CakeTin_Circle.name=
+staxel.item.crafting.CakeTin_Circle.name=Forma de Bolo Circular
 staxel.item.crafting.CakeTin_Circle_Batter.description=
 //TODO Translate [Reference] 'Batter-Filled Cake Tin'
-staxel.item.crafting.CakeTin_Circle_Batter.name=
+staxel.item.crafting.CakeTin_Circle_Batter.name=Forma de Bolo com Massa
 staxel.item.crafting.CandyBlue.description=
 //TODO Translate [Reference] 'Blue Candy'
-staxel.item.crafting.CandyBlue.name=
+staxel.item.crafting.CandyBlue.name=Doce Azul
 //TODO Translate [Reference] 'A delicious treat, everything's better with chocolate!'
 staxel.item.crafting.CandyChocolateBar.description=
 //TODO Translate [Reference] 'Chocolate Bar'
