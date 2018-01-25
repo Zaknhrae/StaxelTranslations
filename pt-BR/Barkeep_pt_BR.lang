@@ -1,43 +1,43 @@
 language.code=pt-BR
 language=Português do Brasil
 //TODO Translate [Reference] 'Oh, don't think I've seen you around here before!'
-staxel.village.dialogue.Barkeep.line:10000100=
+staxel.village.dialogue.Barkeep.line:10000100=Oh, acho que nunca te vi por aqui antes!
 //TODO Translate [Reference] 'New in town eh?'
-staxel.village.dialogue.Barkeep.line:10000200=
+staxel.village.dialogue.Barkeep.line:10000200=Novo na vila?
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Barkeep.line:10000210=
 //TODO Translate [Reference] 'Good to see you ^c:1486b0;{0-playername}^c:pop;.'
-staxel.village.dialogue.Barkeep.line:10000211=
+staxel.village.dialogue.Barkeep.line:10000211=Bom te ver ^c:1486b0;{0-playername}^c:pop;.
 //TODO Translate [Reference] 'What can I do for you today?'
-staxel.village.dialogue.Barkeep.line:10000220=
+staxel.village.dialogue.Barkeep.line:10000220=O que posso fazer por você hoje?
 //TODO Translate [Reference] 'Let's chat!'
-staxel.village.dialogue.Barkeep.line:10000250=
+staxel.village.dialogue.Barkeep.line:10000250=Vamos conversar!
 //TODO Translate [Reference] 'Any rumours?'
-staxel.village.dialogue.Barkeep.line:10000255=
+staxel.village.dialogue.Barkeep.line:10000255=Algum rumor?
 //TODO Translate [Reference] 'I'm thirsty.'
-staxel.village.dialogue.Barkeep.line:10000260=
+staxel.village.dialogue.Barkeep.line:10000260=Estou com sede.
 //TODO Translate [Reference] 'Nothing really.'
-staxel.village.dialogue.Barkeep.line:10000265=
+staxel.village.dialogue.Barkeep.line:10000265=Nada na verdade.
 //TODO Translate [Reference] 'I'm sure you'll fit right in.'
-staxel.village.dialogue.Barkeep.line:10000300=
+staxel.village.dialogue.Barkeep.line:10000300=Tenho certeza que você vai se acomodar bem.
 //TODO Translate [Reference] 'Here, this is on the house!'
-staxel.village.dialogue.Barkeep.line:10000400=
+staxel.village.dialogue.Barkeep.line:10000400=Tome, essa é pela casa!
 //TODO Translate [Reference] 'Think of it as our welcome to the town.'
-staxel.village.dialogue.Barkeep.line:10000500=
+staxel.village.dialogue.Barkeep.line:10000500=Pense nisso como nossas boas vindas a vila.
 //TODO Translate [Reference] 'I hope to see you around here every now and again.'
-staxel.village.dialogue.Barkeep.line:10000600=
+staxel.village.dialogue.Barkeep.line:10000600=Espero te ver por aqui de vez enquando novamente.
 //TODO Translate [Reference] 'By the way... and perhaps this might seem like an odd question but...'
-staxel.village.dialogue.Barkeep.line:10000610=
+staxel.village.dialogue.Barkeep.line:10000610=Aliás... talvez isso soe como uma pergunta estranha mas...
 //TODO Translate [Reference] 'Is there a particular type of animal you like?'
-staxel.village.dialogue.Barkeep.line:10000620=
+staxel.village.dialogue.Barkeep.line:10000620=Tem algum tipo de animal em particular que você goste?
 //TODO Translate [Reference] 'Cats are super cute!'
-staxel.village.dialogue.Barkeep.line:10000630=
+staxel.village.dialogue.Barkeep.line:10000630=Gatos são super fofos!
 //TODO Translate [Reference] 'Dogs are the coolest!'
-staxel.village.dialogue.Barkeep.line:10000640=
+staxel.village.dialogue.Barkeep.line:10000640=Cachorros são os mais maneiros!
 //TODO Translate [Reference] 'Oh! How lucky for you!'
-staxel.village.dialogue.Barkeep.line:10000650=
+staxel.village.dialogue.Barkeep.line:10000650=Oh! Que sorte sua!
 //TODO Translate [Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
-staxel.village.dialogue.Barkeep.line:10000660=
+staxel.village.dialogue.Barkeep.line:10000660=Um mercador veio outro dia, o qual o filho da irmã de uma amiga da tia teve uma ninhada!
 //TODO Translate [Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
 staxel.village.dialogue.Barkeep.line:10000670=
 //TODO Translate [Reference] 'Good luck!'
