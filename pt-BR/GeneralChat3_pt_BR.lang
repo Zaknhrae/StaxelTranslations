@@ -1,8 +1,5 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'Hey! Guess what? I found some seeds when I was tilling the ground!'
-staxel.village.dialogue.GeneralChat.3.line:10000100=
-//TODO Translate [Reference] 'They grew into some tasty vegetables!'
-staxel.village.dialogue.GeneralChat.3.line:10000200=
-//TODO Translate [Reference] 'It was a huge surprise!'
-staxel.village.dialogue.GeneralChat.3.line:10000300=
+staxel.village.dialogue.GeneralChat.3.line:10000100=Ei! Adivinha só? Eu encontrei algumas sementes enquanto arava o solo!
+staxel.village.dialogue.GeneralChat.3.line:10000200=Elas se tornaram vegetais deliciosos!
+staxel.village.dialogue.GeneralChat.3.line:10000300=Foi uma surpresa enorme!
