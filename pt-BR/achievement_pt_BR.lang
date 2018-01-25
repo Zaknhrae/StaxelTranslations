@@ -1,33 +1,21 @@
 language.code=pt-BR
 language=Português do Brasil
-//TODO Translate [Reference] 'Bugs can be sold for money.'
-staxel.achievement.Catch10Bug.description=
-//TODO Translate [Reference] 'Catch 10 Bugs'
-staxel.achievement.Catch10Bug.name=
-//TODO Translate [Reference] 'Use a fishing rod.'
-staxel.achievement.Catch10Fish.description=
-//TODO Translate [Reference] 'Catch 10 Fish'
-staxel.achievement.Catch10Fish.name=
-//TODO Translate [Reference] 'If only programming bugs were so easy to catch.'
-staxel.achievement.Catch100Bug.description=
-//TODO Translate [Reference] 'Catch 100 Bugs'
-staxel.achievement.Catch100Bug.name=
-//TODO Translate [Reference] 'Them's good eating!'
-staxel.achievement.Catch100Fish.description=
-//TODO Translate [Reference] 'Catch 100 Fish'
-staxel.achievement.Catch100Fish.name=
-//TODO Translate [Reference] 'Use a bug net.'
-staxel.achievement.CatchBug.description=
-//TODO Translate [Reference] 'Catch a Bug'
-staxel.achievement.CatchBug.name=
+staxel.achievement.Catch10Bug.description=Insetos podem ser vendidos por dinheiro
+staxel.achievement.Catch10Bug.name=Pegue 10 Insetos
+staxel.achievement.Catch10Fish.description=Use uma vara de pesca.
+staxel.achievement.Catch10Fish.name=Pegue 10 Peixes
+staxel.achievement.Catch100Bug.description=Se bugs de programação fossem assim tão fáceis de pegar.
+staxel.achievement.Catch100Bug.name=Pegue 100 Insetos
+staxel.achievement.Catch100Fish.description=Eles são bons para comer!
+staxel.achievement.Catch100Fish.name=Pegue 100 Peixes
+staxel.achievement.CatchBug.description=Use uma rede de pegar insetos.
+staxel.achievement.CatchBug.name=Pegue um Inseto
 //TODO Translate [Reference] 'CatchBugOneOfEach'
-staxel.achievement.CatchBugOneOfEach.description=
+staxel.achievement.CatchBugOneOfEach.description=Pegue um de cada inseto
 //TODO Translate [Reference] 'CatchBugOneOfEach'
-staxel.achievement.CatchBugOneOfEach.name=
-//TODO Translate [Reference] 'Unleash your inner angler and reel in a nice catch.'
-staxel.achievement.CatchFish.description=
-//TODO Translate [Reference] 'Catch a fish'
-staxel.achievement.CatchFish.name=
+staxel.achievement.CatchBugOneOfEach.name=Pegue um de cada inseto
+staxel.achievement.CatchFish.description=Liberte seu pescador interno e pesque um bom peixe.
+staxel.achievement.CatchFish.name=Pegue um peixe
 //TODO Translate [Reference] 'CatchFishOneOfEach'
 staxel.achievement.CatchFishOneOfEach.description=
 //TODO Translate [Reference] 'CatchFishOneOfEach'
